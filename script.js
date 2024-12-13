@@ -1,5 +1,7 @@
 const funFactAboutMe = [
-  // Add facts about yourself here
+  "I love reading",
+  "I love deep fried rice",
+  "I want to try raw marinated crabs"
 ];
 
 function getRandomInt(max) {
